@@ -1,10 +1,10 @@
 # power-consumption-analysis
 
-Problem Statement
+# Problem Statement
 
 The company wants to analyze power consumption data over time to understand usage trends, patterns, and unusual spikes. Without this analysis, it is difficult to control costs or plan resources.
 
- Goal of the Dashboard
+ # Task
 
 The goal of the dashboard is to provide a clear view of electricity usage over different time periods (hourly, daily, weekly, monthly), highlight peak and low consumption times, detect anomalies, and give decision-makers quick KPIs for better energy management.
 
@@ -26,7 +26,7 @@ Recent periods may be higher/lower compared to the past average.
 
 Anomalies highlight sudden spikes or drops that need attention.
 
-5. What a Company Gets With This
+# What a Company Gets With This
 
 Better understanding of when and how energy is used.
 
